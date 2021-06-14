@@ -43,7 +43,7 @@ Preservation and revitalization of native languages in America using computation
 # Language Specific Projects
 
 ## Ashaninka
-- [[Parsing]](https://www.aclweb.org/anthology/R11-1079.pdf) **Quantitative study of the phonetic**  <br>
+- [[Parsing]](https://assta.org/proceedings/ICPhS2019/papers/ICPhS_3632.pdf) **Quantitative study of the phonetic**  <br>
 Phonetic exponence of word-level stress in ashaninka (arawak)
 [(USA, Austraia)](https://assta.org/proceedings/ICPhS2019/papers/ICPhS_3632.pdf)
 
